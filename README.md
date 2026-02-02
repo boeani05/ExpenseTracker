@@ -42,5 +42,3 @@ The following features are planned for future development:
 - Add expense categorization and filtering by category.
 - Implement budget tracking functionality.
 - Add an option to export expenses to a CSV file.
-
-Thanks to roadm
